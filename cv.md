@@ -35,3 +35,15 @@ Get a job as a junior Frontend developer and gain new knowledge and experience. 
 * **Web** (HTML, CSS, Javascript), code libraries
 * **Graphics** (Photoshop, Figma, AutoCad)
 
+## Languages
+* English
+* Russian
+
+## Strengths
+Communication Skills
+Quick learner
+
+## Hobbies
+* Music (play the guitar)
+
+* Moto Travelling
