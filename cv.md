@@ -5,7 +5,7 @@
 **E-mail address:** alekseymedyshevski@gmail.com
 
 ## Profile:
-_I am responsible and hardworking junior IT person. I am able to work well. I am able to work in a team.  I am able to work well under pressure and adhere to strict deadlines._
+I am responsible and hardworking junior IT person. I am able to work well. I am able to work in a team.  I am able to work well under pressure and adhere to strict deadlines.
 
 ## Objective:
 Get a job as a junior Frontend developer and gain new knowledge and experience. I also want to develop in the Back-end direction.
